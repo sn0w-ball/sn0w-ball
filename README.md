@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sn0w-ball
+- 👀 I’m interested in creating Pokemon ROM Hacks
+- 🌱 I’m currently learning how to create ROM Hacks
+- 💞️ I’m looking to collaborate on ROM Hacking TOol
